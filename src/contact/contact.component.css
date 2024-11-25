@@ -1,0 +1,16 @@
+.form-control:focus,
+.form-select:focus
+{
+    box-shadow: none;
+    border-color: darkcyan !important;
+}
+.btn
+{
+    background-color: #1ABC9C;
+}
+section div.container div.line div.r-l-line
+{
+   height: 4px;
+   width: 80px;
+   background-color: #2C3E50;
+}

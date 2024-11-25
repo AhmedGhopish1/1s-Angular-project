@@ -1,0 +1,45 @@
+section{
+}
+section div.container div.line div.r-l-line
+{
+   height: 4px;
+   width: 80px;
+   background-color: #2C3E50;
+}
+section div.container div.text p.p1
+{
+    margin-right: 20px;
+}
+section div.cnt1 div.container div.cont h2
+{
+    color:#2C3E50 ;
+}
+section div.container div.text p
+{
+    width: 43%;
+    color: white;
+    
+}
+i{
+    color: #2C3E50;
+}
+section div.cnt1 div.container div.cont div.item div.card div.layer i
+{
+    display: none;
+    transition: 0.5s;
+}
+section div.cnt1 div.container div.cont div.item div.card div.layer
+{
+    transition: 0.5s;
+}
+
+
+section div.cnt1 div.container div.cont div.item div.card:hover div.layer
+{
+    background-color:#1aba9fd5;
+    cursor: pointer;
+}
+section div.cnt1 div.container div.cont div.item div.card:hover div.layer i
+{
+    display: block;
+}

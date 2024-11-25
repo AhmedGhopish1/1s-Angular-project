@@ -1,0 +1,20 @@
+section{
+    background-color: #1ABC9C;
+    padding-top: 105px;
+}
+section div.container div.line div.r-l-line
+{
+   height: 4px;
+   width: 80px;
+   background-color: white;
+}
+section div.container div.text p.p1
+{
+    margin-right: 20px;
+}
+section div.container div.text p
+{
+    width: 43%;
+    color: white;
+    
+}
